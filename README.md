@@ -7,7 +7,7 @@ A simple, elegant, and responsive personal projects  built using **HTML and Inli
 
 ### 1. Personal Profile Card
 
-
+![Portfolio Poster](./images/profilecard.JPG)
 https://profilecard-neon.vercel.app/
 
 
