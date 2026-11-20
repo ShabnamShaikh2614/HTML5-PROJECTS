@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/portfolio/images/article03.png",
+      "destination": "/images/article02.jpg"
+    },
+    {
+      "source": "/portfolio/images/article04.png",
+      "destination": "/images/article02.jpg"
+    },
+    {
+      "source": "/portfolio/images/article05.png",
+      "destination": "/images/article02.jpg"
+    },
+    {
+      "source": "/portfolio/images/article06.png",
+      "destination": "/images/article02.jpg"
+    },
+    {
+      "source": "/portfolio/images/:path*",
+      "destination": "/images/:path*"
+    }
+  ]
+}
